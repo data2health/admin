@@ -51,11 +51,11 @@ See CD2H Labs for our latest demonstration platforms.
 
 ### Work Tracking
 
-Implement and manage Github repos for each project to use for their work, with clearly defined deliverables, milestones, and tickets
-Implement and manage dashboards that have overview views of progress, provide notifications, and support community involvement
-Implement and manage improved project management of people, using onboarding forms and person classification
-Implement a dashboard view for the website so that our community can see what we are doing, hold us accountable, and participate more readily
-Document deliverables with clear descriptions of what constitutes delivery
+- Implement and manage Github repos for each project to use for their work, with clearly defined deliverables, milestones, and tickets
+- Implement and manage dashboards that have overview views of progress, provide notifications, and support community involvement
+- Implement and manage improved project management of people, using onboarding forms and person classification
+- Implement a dashboard view for the website so that our community can see what we are doing, hold us accountable, and participate more readily
+- Document deliverables with clear descriptions of what constitutes delivery
 
 ### Content management
 
@@ -69,6 +69,32 @@ Document deliverables with clear descriptions of what constitutes delivery
 - The value of each project will be assessed as part of the evaluation plan for each project and will include community coordination and impact. Overarching indicators (such as number of community members involved) will be captured by the Admin core.  
 
 ### Progress Report
+
+Communications: 
+- Each project has an engagement plan with ways for the community to get involved or stay abreast. 
+- Each project has a slack channel. 
+- The internal homepage and weeky mailer have been implemented. 
+- New onboarding form allows internal and external members to be onboarded to the correct lists, calendars, slack, and github repos. 
+
+Engagement: 
+- We have increased our hub visits and their inclusion in projects
+- We have had very successful community webinars/meetings
+- iDTF and CTSA steering committee conversations have facilitated partnerships
+- DREAM IDEA competition had 31 applications from 25 CTSAs
+
+Work tracking: 
+- Each project now has a GitHub repo, with well defined deliverables, milestones, and information about the project 
+- New dashboard highlights progress overall
+
+Content management:
+- We organized the google doc collection, and are piloting a new Gsuite instance for NCATS
+- We have provided training on project management and document managment
+
+Demonstrated value:
+- We had two publications, one of which demonstrated partnerships with external hubs and multiple CD2H sites
+- External hubs are adopting some of our software tools (Leaf, LOINC2HPO)
+- We have demonstrated value in the clinical data model harmonization arena, and in the terminological space (Health Open Terminologies)
+
 
 ### Current Projects
 (Internal) Operational architecture
