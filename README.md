@@ -1,6 +1,8 @@
 # CD2H Administration Core
 
 # Leadership
+Director: Melissa Haendel
+Co-Director: Julie McMurry
 
 # Other Core Members
 Don't edit this - the RPPR generator populates this section
@@ -27,3 +29,4 @@ See CD2H Labs for our latest demonstration platforms.
 ### Progress Report
 
 ### Current Projects
+(Internal) Operational architecture
