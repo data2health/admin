@@ -19,17 +19,25 @@ The Administrative core aims to support the program internally, coordinate the c
 
 # Research Strategy
 
-
-
-
 ## Significance
-The data are out there, but underutilized.
+
+
 ## Innovation
-Rapid deployment of a complex information landscape.
+Our innovation is a combination of two things: "teams of teams", and "single source of truth." 
+
+CD2H organizational structure is now in 5 thematic cores, each with individual projects and project teams and team leads within them. This gives everyone a chance to lead and to collaborate, but to do so in smaller, effective, nimble teams. 
+
+Our information management approach is a "single source of truth". We aim to generate content once and repurpose and distribute or filter it in other locations as needed. This is everything from onboarding to pivot tables for budgeting views.
+
 ### Justification and Feasibility
-They need it, we're showing it can work.
+Our original approach of having a fully distributed set of committees to manage the program was not as effective, transparent, communicative, or accountable as we needed given the complexity of the program, and we believe necessitated the creation of an Adminstrative core. 
+
+We have demonstrated early successes in improved program management with these approaches (see progress below). 
+
+
 ### Summary of existing system and findings
-See CD2H Labs for our latest demonstration platforms.
+See the Github Project management repositories, and the [CD2H Labs project dashboard](http://labs.cd2h.org/analytics/cd2h/dashboard.jsp).
+
 ## Approach
 ### Communications
 
