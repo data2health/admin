@@ -19,6 +19,18 @@ The Administrative core aims to support the program internally, coordinate the c
 
 # Research Strategy
 
+
+
+
+## Significance
+The data are out there, but underutilized.
+## Innovation
+Rapid deployment of a complex information landscape.
+### Justification and Feasibility
+They need it, we're showing it can work.
+### Summary of existing system and findings
+See CD2H Labs for our latest demonstration platforms.
+## Approach
 ### Communications
 
 - Implement new organizational structure that has community and internal coordination strategies
@@ -55,18 +67,6 @@ Document deliverables with clear descriptions of what constitutes delivery
 
 - The cores aim to deliver end-to-end solutions in strategic areas. Together, a multi-PI and site PI will be responsible for coordinating each core and for the success of the projects in their core. 
 - The value of each project will be assessed as part of the evaluation plan for each project and will include community coordination and impact. Overarching indicators (such as number of community members involved) will be captured by the Admin core.  
-
-
-
-## Significance
-The data are out there, but underutilized.
-## Innovation
-Rapid deployment of a complex information landscape.
-### Justification and Feasibility
-They need it, we're showing it can work.
-### Summary of existing system and findings
-See CD2H Labs for our latest demonstration platforms.
-## Approach
 
 ### Progress Report
 
