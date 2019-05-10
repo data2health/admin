@@ -15,12 +15,12 @@ Don't edit this - the RPPR generator populates this section
 
 # Specific Aim
 
-The Administrative core aims to support the program internally, coordinate the community externally, and provide overarching guidance to the strategically themed cores. 
+The Administrative core aims to provide program management support for the CD2H program internally, to coordinate and engage the community externally, provide educational materials and informatics solutions to education dissemination, and to provide overarching guidance to the strategically themed cores to help them succeed. 
 
 # Research Strategy
 
 ## Significance
-
+Program management is often under resourced or otherwise dismissed as a significant need, and we too did not anticipate the significance of this need. Especially with a program as complex as CD2H, coordinating informatics for 59 CTSA hubs from 9 internal sites, we require sophisticated management, communication, and reporting functions. 
 
 ## Innovation
 Our innovation is a combination of two things: "teams of teams", and "single source of truth." 
@@ -33,7 +33,6 @@ Our information management approach is a "single source of truth". We aim to gen
 Our original approach of having a fully distributed set of committees to manage the program was not as effective, transparent, communicative, or accountable as we needed given the complexity of the program, and we believe necessitated the creation of an Adminstrative core. 
 
 We have demonstrated early successes in improved program management with these approaches (see progress below). 
-
 
 ### Summary of existing system and findings
 See the Github Project management repositories, and the [CD2H Labs project dashboard](http://labs.cd2h.org/analytics/cd2h/dashboard.jsp).
@@ -81,7 +80,7 @@ See the Github Project management repositories, and the [CD2H Labs project dashb
 Communications: 
 - Each project has an engagement plan with ways for the community to get involved or stay abreast. 
 - Each project has a slack channel. 
-- The internal homepage and weeky mailer have been implemented. 
+- The [internal homepage](http://bit.ly/cd2hhome) and weeky mailer have been implemented. 
 - New onboarding form allows internal and external members to be onboarded to the correct lists, calendars, slack, and github repos. 
 
 Engagement: 
