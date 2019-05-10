@@ -104,4 +104,5 @@ Demonstrated value:
 
 
 ### Current Projects
-(Internal) Operational architecture
+[(Internal) Operational architecture](
+https://github.com/data2health/Operational-architecture)
