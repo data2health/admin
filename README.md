@@ -104,4 +104,4 @@ Demonstrated value:
 
 
 ### Current Projects
-[Operational architecture (internal project)](https://github.com/data2health/Operational-architecture) ([RPPR](https://github.com/data2health/Operational-architecture/blob/master/RPPR.md))
+* [Operational architecture (internal project)](https://github.com/data2health/Operational-architecture) ([RPPR](https://github.com/data2health/Operational-architecture/blob/master/RPPR.md))
