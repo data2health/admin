@@ -95,7 +95,7 @@ Work tracking:
 
 Content management:
 - We organized the google doc collection, and are piloting a new Gsuite instance for NCATS
-- We have provided training on project management and document managment
+- We have provided training on project management and document management
 
 Demonstrated value:
 - We had two publications, one of which demonstrated partnerships with external hubs and multiple CD2H sites
