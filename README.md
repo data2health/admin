@@ -80,7 +80,7 @@ See the Github Project management repositories, and the [CD2H Labs project dashb
 Communications: 
 - Each project has an engagement plan with ways for the community to get involved or stay abreast. 
 - Each project has a slack channel. 
-- The [internal homepage](http://bit.ly/cd2hhome) and weeky mailer have been implemented. 
+- The [internal homepage](http://bit.ly/cd2hhome) and weekly mailer have been implemented. 
 - New onboarding form allows internal and external members to be onboarded to the correct lists, calendars, slack, and github repos. 
 
 Engagement: 
