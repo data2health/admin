@@ -30,7 +30,7 @@ CD2H organizational structure is now in 5 thematic cores, each with individual p
 Our information management approach is a "single source of truth". We aim to generate content once and repurpose and distribute or filter it in other locations as needed. This is everything from onboarding to pivot tables for budgeting views.
 
 ### Justification and Feasibility
-Our original approach of having a fully distributed set of committees to manage the program was not as effective, transparent, communicative, or accountable as we needed given the complexity of the program, and we believe necessitated the creation of an Adminstrative core. 
+Our original approach of having a fully distributed set of committees to manage the program was not as effective, transparent, communicative, or accountable as we needed given the complexity of the program, and we believe necessitated the creation of an Administrative core. 
 
 We have demonstrated early successes in improved program management with these approaches (see progress below). 
 
